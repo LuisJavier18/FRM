@@ -1,0 +1,71 @@
+body {
+    background-color: whitesmoke;
+    width: auto;
+}
+.menucompleto {
+ width: 100%;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+    text-align: center;
+    color: #025157;
+    font-weight: 500;
+     background-color: white; 
+  }
+  
+  .navbar {
+    text-align: center;
+    color: #025157;
+    font-weight: 500;
+     /* background-color: black;  */
+  }
+
+.TostadasC > h2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+h2 > .entradas {
+    text-align: center;
+}
+.entradas1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.entradas {
+    text-align: center;
+}
+
+.cockteles {
+    text-align: center;
+}
+
+.cocktelesc {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around
+    ;
+}
+
+.Aguachiles {
+    text-align: center;
+}
+.AguachilesC > ul > li  {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.HamburguesasC {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
